@@ -24,13 +24,14 @@ A simple Notepad-like application built using **Java Swing**, now extended with 
 
   ## Setup Instructions
 1.Clone the repository
-   git clone https://github.com/your-username/java-swing-notepad.git
+   git clone https://github.com/udaran92-a11y/Simple_Notepad.git
 
 2.Navigate to the project folder
 
 3.Compile and run the program
 
-Assumptions / Notes:
+
+**Assumptions / Notes:**
 
    Supports plain text files (.txt) only.
 
