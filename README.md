@@ -27,6 +27,8 @@ A simple Notepad-like application built using **Java Swing**, now extended with 
    git clone https://github.com/udaran92-a11y/Simple_Notepad.git
 
 2.Navigate to the project folder
+  SimpleNotepad.java file
+ 
 
 3.Compile and run the program
 
